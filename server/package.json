@@ -1,0 +1,22 @@
+{
+  "name": "todo-server",
+  "version": "1.0.0",
+  "description": "todo app",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "author": "Saiful Islam",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "express-async-handler": "^1.1.4",
+    "mongoose": "^6.0.5"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
