@@ -1,18 +1,19 @@
 # todo-app
+Simple todo app using React, Node.js & MongoDB
 
 # Installation
 
-- Client
+ - Client
 
-- [] `cd client`
-- [] run `npm install`
-- [] run `npm start`
+- [x] `cd client`
+- [x] run `npm install`
+- [x] run `npm start`
 
 - Server
 
-- [] `cd server`
-- [] run `npm install`
-- [] run `npm dev`
+- [x] `cd server`
+- [x] run `npm install`
+- [x] run `npm dev`
 
 ## API Endpoints
 
