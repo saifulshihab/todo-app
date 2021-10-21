@@ -13,7 +13,7 @@ Simple todo app using React, Node.js & MongoDB
 
 - [x] `cd server`
 - [x] run `npm install`
-- [x] run `npm dev`
+- [x] run `npm run dev`
 
 ## API Endpoints
 
