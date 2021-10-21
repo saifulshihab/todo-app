@@ -1,1 +1,9 @@
+.prettierrc
+
+client/build
+
+client/public/**
+
+client/node_modules
+
 server/node_modules
